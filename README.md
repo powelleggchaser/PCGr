@@ -13,7 +13,7 @@ Version 1.0 - Only works with estimating SNP effect.
 
 1. Download repository from Git
 2. Check DataFiles and GSRU.R script are present
-3. Run PCG or PCG_VDP in R/RStudio or run directly from Command Line
+3. Run PCG or PCG_VDPlas in R/RStudio or run directly from Command Line
 
 * Database configuration
 
