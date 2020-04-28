@@ -7,6 +7,9 @@ This README would normally document whatever steps are necessary to get your app
 This repository is for tutorial scripts/programmes developed for students to understand the mechanics and behaviours of the Preconditioned Conjugate Gradient solver 
 
 Version 1.0 - Only works with estimating SNP effect. 
+
+CONVERGENCE ISSUES with both scripts. Couldnt debug, potenitally due to such small,unrelaistic example datasets
+
 ### How do I get set up? ###
 
 * Summary of set up
